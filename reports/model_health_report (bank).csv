@@ -1,0 +1,2 @@
+model_health_pct,mae,drift_score,uncertainty_score,health_state,drift_state,uncertainty_state,final_recommendation
+32.1,4.872442082,0.563642731,1.590454839,🔴 CRITICAL,🟠 MODERATE,🔴 HIGH,Immediate retraining required
